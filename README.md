@@ -1,4 +1,4 @@
-# Arabidopsis_BS-seq_pipeline
+# Arabidopsis_BSseq_pipeline
 A reproducible WGBS analysis pipeline using BatMeth2 for alignment, methylation calling, DMR detection, and visualization.
 
 Author: **Ruoxuan Wang**
